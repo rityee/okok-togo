@@ -18,3 +18,4 @@ scene.pov.radio_normal = False
 scene.pov.radio_recursion_limit = 1
 scene.pov.radio_pretrace_start = 0.08
 scene.pov.radio_pretrace_end = 0.01
+scene.pov.radio_pretrace_end = 0.001
